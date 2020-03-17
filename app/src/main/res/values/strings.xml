@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Quiz de Transito</string>
     <string name="texto1">Questão 11 de 28</string>
+    <string name="texto2">Q11 - Qual o xignificado desta placa?</string>
+    <string name="texto3">Ponte a frente</string>
+    <string name="texto4">Estreitamento de pista</string>
+    <string name="texto5">Declive acentuado</string>
+    <string name="texto6">Redução de largura de veículos</string>
+    <string name="texto7">Próxima pergunta</string>
 </resources>
